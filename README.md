@@ -1,8 +1,8 @@
 # [MathQuill](http://mathquill.github.com)
 
-by [Han][] and [Jay][].  Current development is proudly supported by [Desmos][], whose awesome graphing calculator makes extensive use of Mathquill.
+Forked by [George Gardiner][] / [Common Mode][] to demonstrate a [Desmos][] style approach to entering math on mobile devices such as the iPad with a custom soft keyboard more suitable for entry of mathematics than any standard on-screen keyboards currently available.
 
-Forked by [George Gardiner][] / Common Mode [Common Mode][] to demonstrate a Desmos [Desmos][] style approach to entering math on mobile devices such as the iPad with a custom soft keyboard more suitable for entry of mathematics than any standard on-screen keyboards currently available.
+by [Han][] and [Jay][].  Current development is proudly supported by [Desmos][], whose awesome graphing calculator makes extensive use of Mathquill.
 
 [Han]: http://github.com/laughinghan
 [Jay]: http://github.com/jayferd
